@@ -7,7 +7,7 @@
   },
   "routes": [
     {
-      "src": "/.*",
+      "src": "/_worker.js",
       "dest": "/functions/[[path]].js"
     }
   ],
