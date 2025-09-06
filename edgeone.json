@@ -13,12 +13,5 @@
   ],
   "env": {
     "NODE_VERSION": "18"
-  },
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/sub",
-      "statusCode": 301
-    }
-  ]
+  }
 }
